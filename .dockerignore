@@ -1,0 +1,15 @@
+client/.next
+client/node_modules
+
+server/bin
+server/vendor
+
+.git
+.vscode
+.idea
+*.log
+*.temp
+.DS_STORE
+
+Thumbs.db
+ehthumbs.db
